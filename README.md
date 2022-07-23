@@ -8,6 +8,15 @@
 [x] Add photos to DOM
 [x] Add image information 
 
+Add to SERVER
+[x] Organize files
+[x] Add a `.git ignore` file
+[] `npm init --yes` and `npm install express`
+[] Add start script to 'pakage.json'
+[] Create an express server that listens on a port
+[] Add HTML to index.HTML and make sure it displays on localhost:PORT
+[] npm start
+
 You will be creating a pick-the-person game with HTML, CSS, and jQuery!
 
 ## Update Your GitHub Profile Picture

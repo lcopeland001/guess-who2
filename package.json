@@ -1,0 +1,24 @@
+{
+  "name": "guess-who2",
+  "version": "1.0.0",
+  "description": "[x] Add names and usernames to data.js [x] Get urls for each image and append to data.js [x] Link jQuery to project  [x] Create div container with unique id [x] Create readyNow function to append divs to html [x] Add photos to DOM [x] Add image information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcopeland001/guess-who2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcopeland001/guess-who2/issues"
+  },
+  "homepage": "https://github.com/lcopeland001/guess-who2#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
