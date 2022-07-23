@@ -13,7 +13,7 @@ Add to SERVER
 [x] Add a `.git ignore` file
 [x] `npm init --yes` and `npm install express`
 [x] Add start script to 'pakage.json'
-[n] Create an express server that listens on a port
+[x] Create an express server that listens on a port
 [] Add HTML to index.HTML and make sure it displays on localhost:PORT
 [] npm start
 
@@ -54,7 +54,8 @@ function randomNumber(min, max){
 
 - If the player clicks on the correct person
     - give them a success message.
-    - Prompt the player to pick another person randomly and let them keep playing.
+    - Prompt the player to pic
+    k another person randomly and let them keep playing.
 - If they pick the wrong person
     - give them an error message.
     - allow them to try again.
