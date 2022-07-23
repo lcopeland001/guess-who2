@@ -11,9 +11,9 @@
 Add to SERVER
 [x] Organize files
 [x] Add a `.git ignore` file
-[] `npm init --yes` and `npm install express`
-[] Add start script to 'pakage.json'
-[] Create an express server that listens on a port
+[x] `npm init --yes` and `npm install express`
+[x] Add start script to 'pakage.json'
+[n] Create an express server that listens on a port
 [] Add HTML to index.HTML and make sure it displays on localhost:PORT
 [] npm start
 
