@@ -14,8 +14,8 @@ Add to SERVER
 [x] `npm init --yes` and `npm install express`
 [x] Add start script to 'pakage.json'
 [x] Create an express server that listens on a port
-[] Add HTML to index.HTML and make sure it displays on localhost:PORT
-[] npm start
+[x] Add HTML to index.HTML and make sure it displays on localhost:PORT
+[x] TEST-npm start
 
 You will be creating a pick-the-person game with HTML, CSS, and jQuery!
 
